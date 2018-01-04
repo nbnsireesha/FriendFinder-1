@@ -1,0 +1,21 @@
+body{
+	display: flex;
+	width: 80%;
+	margin-right: 20%;
+	margin-left: 20%;
+
+}
+header{
+	height: 100px;
+	background-color: yellow;
+}
+header > nav{
+	height: 100%;
+}
+#logo{
+	margin-left: 50px;
+	margin-top: 20px;
+}
+.fa{
+	width: 100px;
+}
