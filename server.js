@@ -5,7 +5,7 @@ var path = require("path");
 var fs = require("fs");
 
 var app = express();
-var PORT = 3000;
+var PORT = process.env.PORT || 3000;
 
 //adding application routes
 var friends = require('./app/data/friends.js');
