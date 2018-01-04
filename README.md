@@ -1,7 +1,12 @@
 # FriendFinder
 
+ . Demo of the Application on Heroku 
 
- . Here is the demo version of this project https://drive.google.com/file/d/1yDVLAJPe7SnzJSRYYnN6q-iMwM4j85cn/view?usp=sharing 
+ 	https://afternoon-crag-23424.herokuapp.com/
+
+ . Here is the demo version of this project 
+ 
+ https://drive.google.com/file/d/1yDVLAJPe7SnzJSRYYnN6q-iMwM4j85cn/view?usp=sharing 
 
  . Folder structure of the project FriendFinder 
 
